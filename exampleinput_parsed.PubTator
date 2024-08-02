@@ -1,0 +1,171 @@
+11312426|t|Nevoid basal cell carcinoma syndrome (NBCCS) is a genodermatosis with autosomal dominant inheritance. In identified kindreds the diagnosis is relatively easy, but for the patients without family history of this syndrome a high clinical suspicion is necessary for diagnosis.  Acrochordons are distinctly uncommon in childhood. Our purpose was to evaluate skin tags that develop at an early age.  This is a retrospective series evaluation of 7 children who presented with pedunculated papules (acrochordon-like growths). A full history was then correlated with biopsy results in each patient.  Clinically, lesions consisted of flesh-colored and pigmented pedunculated papules. Histopathologic examination of these papules showed basal cell carcinomas in each biopsy specimen.  We consider that "skin tag"-like basal cell carcinomas in childhood may represent a marker for NBCCS. Early diagnosis of this syndrome and early sun protection of the affected children could help decrease the number of lifetime tumors. Biopsy should be performed on acrochordons in children because they may be the presenting sign of NBCCS. Because these tags may precede other stigmata of the NBCCS, recognition may facilitate early diagnosis and allow early treatment and sun protection.
+11312426	7	27	basal cell carcinoma	Phenotype	HP:0002671	1.00
+11312426	354	363	skin tags	Phenotype	HP:0010609	1.00
+11312426	483	490	papules	Phenotype	HP:0200034	1.00
+11312426	492	504	acrochordon-	Phenotype	HP:0010609	0.98663
+11312426	625	673	flesh-colored and pigmented pedunculated papules	Phenotype	HP:0025512	0.97002
+11312426	712	719	papules	Phenotype	HP:0200034	1.00
+11312426	727	748	basal cell carcinomas	Phenotype	HP:0002671	1.00
+11312426	793	801	skin tag	Phenotype	HP:0010609	1.00
+11312426	808	829	basal cell carcinomas	Phenotype	HP:0002671	1.00
+11312426	1003	1009	tumors	Phenotype	HP:0002664	1.00
+
+11338037|t|In this report we present a subject affected by nevoid basal cell carcinoma syndrome (NBCCS), showing also bilateral mandibular coronoid processes hyperplasia, a hitherto unreported association. Our observation of bilateral hyperplasia of the mandibular coronoid processes in a boy with NBCCS may prompt a retrospective and prospective review of other patients affected by this syndrome in order to establish if this anomaly is part of it.
+11338037	55	75	basal cell carcinoma	Phenotype	HP:0002671	1.00
+11338037	117	146	mandibular coronoid processes	Phenotype	HP:3000078	0.99716
+11338037	224	253	hyperplasia of the mandibular	Phenotype	HP:0000303	0.99999
+11338037	390	395	order	Phenotype	HP:5200049	1.00
+
+11425952|t|The authors report a patient with neurofibromatosis type 2 (NF2) presenting with an axonal mononeuropathy multiplex. Sural nerve biopsy showed small scattered groups of Schwann cells transformed into irregular branching cells with abnormal cell-cell contacts. The authors hypothesize that defective Schwann cell function, due to inactivation of the NF2 gene product merlin, leads to changes in morphology, cell-cell contact, and growth, and finally to degeneration of axons.
+11425952	34	51	neurofibromatosis	Phenotype	HP:0001067	1.00
+11425952	91	115	mononeuropathy multiplex	Phenotype	HP:0032018	0.99455
+
+12900905|t|We present the case of a 14-year-old Japanese girl who had both Gorlin syndrome and ulcerative colitis. She had complained of blood stools for 6 months and severe scoliosis from her infancy. Physical examination revealed multiple nevi, palmar and plantar pits, jaw cysts, and calcification of the falx cerebri, leading to the diagnosis of Gorlin syndrome. Total colonoscopy revealed an edematous and spotty bleeding mucosa extending from the anus to the transverse colon. Histological examination was also compatible with ulcerative colitis. Thus, we diagnosed her as having Gorlin syndrome with ulcerative colitis. Gene analysis revealed a mutation, 1247InsT, in the human patched gene (PTCH), resulting in the truncation of PTCH protein. Since Gorlin syndrome and ulcerative colitis are rare disorders in childhood, this association is interesting, suggesting a correlation between the hedgehog signaling and intestinal disorders.
+12900905	84	102	ulcerative colitis	Phenotype	HP:0100279	1.00
+12900905	163	172	scoliosis	Phenotype	HP:0002650	1.00
+12900905	221	234	multiple nevi	Phenotype	HP:0001054	0.99994
+12900905	247	259	plantar pits	Phenotype	HP:0010612	1.00
+12900905	276	309	calcification of the falx cerebri	Phenotype	HP:0005462	0.99998
+12900905	522	540	ulcerative colitis	Phenotype	HP:0100279	1.00
+12900905	596	614	ulcerative colitis	Phenotype	HP:0100279	1.00
+12900905	766	784	ulcerative colitis	Phenotype	HP:0100279	1.00
+12900905	911	931	intestinal disorders	Phenotype	HP:0002242	0.99543
+
+14699618|t|The phenotype of Gorlin-Goltz syndrome or basal cell nevus syndrome (BCNS, #109400, OMIM), a Mendelian trait due to PTCH mutations has been reported in a few cases of interstitial deletion of chromosome 9q. We present an 11-year-old girl with clinical features consistent with BCNS including bridging of sella turcica, biparietal bossing, downward slanting palpebral fissures, mandible prognathism, pectus excavatum, thumb abnormalities, occult spina bifida at L5-S4, numerous basal cell nevi, and single basal cell carcinoma. Cytogenetic analysis using high-resolution banding techniques and fluorescence in situ hybridization (FISH) revealed interstitial chromosome deletion 9q22.32-q33.2 involving the PTCH gene as a secondary breakage event to a chromosome translocation t(9;17)(q34.1;p11.2)mat. Further FISH studies showed the translocation breakpoint on 9q34.11 maps proximal to ABL, between the BAC clone RP11-88G17 and the LMX1B gene. The latter gene encodes a transcription factor, in which loss of function mutations are responsible for the nail-patella syndrome (NPS, #161200 OMIM). Interestingly, some features of our proband (e.g., bilateral patellar dysplasia and abnormal clavicular shape), as well as her healthy sister who carries the same translocation, are also found in patients with NPS. The chromosome 17p11.2 breakpoint maps in the Smith-Magenis syndrome common deletion region, within two overlapping BAC clones, CTD-2354J3 and RP11-311F12.
+14699618	42	58	basal cell nevus	Phenotype	HP:0002671	1.00
+14699618	304	317	sella turcica	Phenotype	HP:0010538	0.99679
+14699618	319	337	biparietal bossing	Phenotype	HP:0000242	1.00
+14699618	339	366	downward slanting palpebral	Phenotype	HP:0000494	1.0
+14699618	377	397	mandible prognathism	Phenotype	HP:0000303	1.00
+14699618	399	415	pectus excavatum	Phenotype	HP:0000767	1.00
+14699618	417	436	thumb abnormalities	Phenotype	HP:0001172	1.0
+14699618	438	463	occult spina bifida at L5	Phenotype	HP:0004601	0.99997
+14699618	477	492	basal cell nevi	Phenotype	HP:0002671	1.00
+14699618	505	525	basal cell carcinoma	Phenotype	HP:0002671	1.00
+14699618	1056	1072	patella syndrome	Phenotype	HP:0003045	0.99592
+14699618	1155	1173	patellar dysplasia	Phenotype	HP:0006446	0.99928
+14699618	1178	1203	abnormal clavicular shape	Phenotype	HP:0000889	0.99692
+
+1750770|t|Two very preterm infants (born at 29 and 25 weeks, respectively) were found to have abnormal ribs. Though this was thought unimportant at the time, it was subsequently shown to indicate that some members of their families had a dominantly inherited risk of developing skin cancer and other serious problems.
+1750770	4	16	very preterm	Phenotype	HP:0025666	0.99831
+1750770	84	97	abnormal ribs	Phenotype	HP:0000772	0.99997
+1750770	268	279	skin cancer	Phenotype	HP:0008069	1.00
+
+1789288|t|We report on a family in which individuals at risk for NF 2 were investigated with the use of gadolinium-enhanced MRI. This technique has allowed the diagnosis of small (less than 8 mm) acoustic neuromas in two asymptomatic children (age 7 and 11), one of whom had normal audiometric and brainstem-evoked response testing. To our knowledge these are the youngest asymptomatic patients in whom the diagnosis of NF 2 has been demonstrated. It is possible that acoustic neuromas develop at an early age more commonly than recognized previously. The early diagnosis of acoustic neuromas with the use of gadolinium-enhanced MRI may lead to better outcome following surgery. This technique will provide the opportunity to better determine the natural course of this disease.
+1789288	186	203	acoustic neuromas	Phenotype	HP:0009588	1.00
+1789288	458	475	acoustic neuromas	Phenotype	HP:0009588	1.00
+1789288	565	582	acoustic neuromas	Phenotype	HP:0009588	1.00
+
+18177466|t|Branchio-oto-renal (BOR) and Stickler (STL) syndromes are disorders that include hearing loss among their clinical features. STL syndrome type I (STL1) is a combination of ophthalmic, orofacial, articular, and auditory manifestations, caused by mutations in the COL2A1. BOR syndrome is an autosomal dominant trait encompassing branchial, otic and renal anomalies because of mutations in EYA1, SIX1 and SIX5. In this study, we have clinically and genetically diagnosed a proband that displayed STL1 and BOR syndromes. This patient and his younger brother exhibited hearing loss and cleft palate. Both siblings and their mother also showed myopia, congenital non-progressive vitreous anomaly and a flat face. Taken together, these clinical features are consistent with the diagnosis of a familial case of STL. Sequence analysis revealed in the three patients a novel COL2A1 mutation (c.1468_1475delinsT) that accounted for a STL1 phenotype. The proband also displayed pre-auricular pits, branchial fistulae and renal agenesis that define BOR syndrome. Interestingly, this patient carries an EYA1 mutation, p.R328X, which was not present in the two other patients or in his healthy father, supporting that the mutation arose de novo. In conclusion, this report highlights the importance of molecular testing and detailed clinical evaluation for the diagnosis of syndromes with overlapping phenotypic features.
+18177466	81	93	hearing loss	Phenotype	HP:0000365	1.00
+18177466	347	362	renal anomalies	Phenotype	HP:0000077	1.00
+18177466	564	576	hearing loss	Phenotype	HP:0000365	1.00
+18177466	581	593	cleft palate	Phenotype	HP:0000175	1.00
+18177466	638	644	myopia	Phenotype	HP:0000545	1.00
+18177466	646	689	congenital non-progressive vitreous anomaly	Phenotype	HP:0007968	0.97476
+18177466	696	705	flat face	Phenotype	HP:0012368	1.00
+18177466	966	984	pre-auricular pits	Phenotype	HP:0004464	0.98148
+18177466	986	1004	branchial fistulae	Phenotype	HP:0009795	1.00
+18177466	1009	1023	renal agenesis	Phenotype	HP:0000104	1.00
+
+2729353|t|We report on a 4-year-old girl with Angelman syndrome who has an apparent de-novo del(15) (q11q13) originating from a maternally derived chromosome. Her mother had severe brachycephaly, sensorineural hearing loss, speech impediment, and mild ataxia. CT brain scans showed an enlarged foramen magnum in the mother and daughter but magnetic resonance imaging (MRI) showed no brainstem abnormality in either. This family demonstrates that some Angelman syndrome cases may be dominantly transmitted with variable expression and associated with abnormal or cytogenetically apparently normal chromosome 15.
+2729353	171	184	brachycephaly	Phenotype	HP:0000248	1.00
+2729353	186	212	sensorineural hearing loss	Phenotype	HP:0000407	1.00
+2729353	242	248	ataxia	Phenotype	HP:0001251	1.00
+2729353	275	298	enlarged foramen magnum	Phenotype	HP:0002700	1.00
+2729353	373	394	brainstem abnormality	Phenotype	HP:0002363	0.99999
+
+3799714|t|The family on which this report is based is of interest because it contains individuals with the branchio-oto-renal (BOR) syndrome who have renal hypoplasia or malformations of the kidney or collecting system including duplication; only branchial and ear anomalies; and apparent nonpenetrance of the syndrome. This report provides evidence to support the hypothesis that in some families variable expressivity includes duplication of the urinary collecting system in individuals with other manifestations of the BOR syndrome as well as individuals with branchial and ear anomalies who have apparently normal kidneys.
+3799714	160	208	malformations of the kidney or collecting system	Phenotype	HP:0004742	0.99984
+3799714	237	264	branchial and ear anomalies	Phenotype	HP:0009794	0.99807
+3799714	419	463	duplication of the urinary collecting system	Phenotype	HP:0000081	0.99999
+3799714	553	580	branchial and ear anomalies	Phenotype	HP:0009794	0.99807
+
+3943073|t|Six patients with typical features of the multiple basal cell nevus syndrome were studied cytogenetically, using prometaphase G-banding and C-banding. Three patients were from one family and the others were sporadic cases. No cytogenetic marker of the disease was identified using these techniques.
+3943073	51	67	basal cell nevus	Phenotype	HP:0002671	1.00
+
+6823972|t|No difference in survival was observed between cultured cells from basal cell naevus syndrome (BCNS) patients and normal controls following exposure of fibroblasts to ionizing radiation. Potential lethal damage repair in BCNS cells, measured by holding experiments, was also no different from normal. G0-irradiated lymphocytes from BCNS patients were found to have a significantly higher level of X-ray-induced chromosome aberrations compared with normals. This increase is, however, small, and, taken together with the survival data, suggests that increased cell killing as a measure of the unusual clinical radiosensitivity is not the major effect of the BCNS gene.
+6823972	67	84	basal cell naevus	Phenotype	HP:0002671	0.99995
+
+6829601|t|Two unrelated children (one male, the other female) had unusual craniofacial anomalies consisting of hemangiomatous branchial clefts, lip pseudoclefts, and identical unusual facial appearance. One also had unilateral microphthalmia and both had congenital nasolacrimal duct obstruction. Two similar, sporadic cases from the literature were also identified. These four cases form the basis of a new, distinctly recognizable pattern of malformation.
+6829601	64	86	craniofacial anomalies	Phenotype	HP:0004484	0.96754
+6829601	134	150	lip pseudoclefts	Phenotype	HP:0034185	0.98722
+6829601	166	191	unusual facial appearance	Phenotype	HP:0001999	1.00
+6829601	206	231	unilateral microphthalmia	Phenotype	HP:0011480	0.99999
+6829601	256	285	nasolacrimal duct obstruction	Phenotype	HP:0000579	1.00
+
+712760|t|A family is described in which 16 individuals in 3 generations have Charcot-Marie-Tooth disease. At least 6 family members also have the naevoid basal cell carcinoma syndrome. In addition, 1 subject with both disorders has 2 young daughters with the naevoid basal cell carcinoma syndrome.
+712760	145	165	basal cell carcinoma	Phenotype	HP:0002671	1.00
+712760	258	278	basal cell carcinoma	Phenotype	HP:0002671	1.00
+
+7417945|t|Four patients representing four generations of one family suffered from the multiple nevoid basal cell carcinoma syndrome. These cases are described and the importance of examination and careful supervision of the progeny of such patients is discussed. A unique finding in this series was a large congenital lung cyst occupying the left thoracic cavity of 1 patient.
+7417945	92	112	basal cell carcinoma	Phenotype	HP:0002671	1.00
+7417945	297	327	congenital lung cyst occupying	Phenotype	HP:0010959	0.99996
+
+7485365|t|To evaluate the ocular abnormalities in patients with clinically diagnosed neurofibromatosis 2 and asymptomatic gene carriers.  Probands were ascertained through a surgical otolaryngology practice. In a cross-sectional study, we examined 49 patients with neurofibromatosis 2, 30 offspring of patients, and, as a comparison group, 18 parents and siblings of patients with sporadic neurofibromatosis 2. The examination included a complete neuro-ophthalmic assessment, physical examination, and, for patients and first-degree relatives at risk, cranial and spinal magnetic resonance imaging with gadolinium enhancement, if not previously performed.  The most common ocular abnormalities were posterior subcapsular or capsular, cortical, or mixed lens opacities in 33 (67%) of 49 patients with neurofibromatosis 2 and retinal hamartomas in 11 (22%). We used segregation analysis to determine the mutation carrier status of six at-risk offspring who were 30 years old or younger in two multigeneration families. Three asymptomatic mutation carriers had cataracts, whereas those who were predicted not to carry the mutation did not have cataracts. Asymptomatic mutation carriers may have developmental abnormalities of the eye that are detectable in childhood or adolescence, a finding that may assist in early diagnosis of the disease.  A variety of ocular abnormalities are present in neurofibromatosis 2, including cataracts, retinal hamartomas, and ocular motor deficits. Many of these are developmental or acquired early in life and may assist in presymptomatic diagnosis. For screening at-risk relatives of patients with neurofibromatosis 2, the types of cataract that are most suggestive of neurofibromatosis 2 are plaque-like posterior subcapsular or capsular cataract and cortical cataract with onset under the age of 30 years.
+7485365	16	36	ocular abnormalities	Phenotype	HP:0000478	0.99536
+7485365	75	92	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	255	272	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	380	397	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	663	683	ocular abnormalities	Phenotype	HP:0000478	0.99536
+7485365	743	757	lens opacities	Phenotype	HP:0000518	1.00
+7485365	790	807	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	814	832	retinal hamartomas	Phenotype	HP:0009594	1.00
+7485365	1048	1057	cataracts	Phenotype	HP:0000518	1.00
+7485365	1131	1140	cataracts	Phenotype	HP:0000518	1.00
+7485365	1196	1220	abnormalities of the eye	Phenotype	HP:0000478	1.00
+7485365	1345	1365	ocular abnormalities	Phenotype	HP:0000478	0.99536
+7485365	1381	1398	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	1412	1421	cataracts	Phenotype	HP:0000518	1.00
+7485365	1423	1441	retinal hamartomas	Phenotype	HP:0009594	1.00
+7485365	1454	1468	motor deficits	Phenotype	HP:0001270	0.99158
+7485365	1621	1638	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	1655	1663	cataract	Phenotype	HP:0000518	1.00
+7485365	1692	1709	neurofibromatosis	Phenotype	HP:0001067	1.00
+7485365	1728	1770	posterior subcapsular or capsular cataract	Phenotype	HP:0007787	0.99997
+7485365	1775	1792	cortical cataract	Phenotype	HP:0100019	1.00
+
+7802001|t|We analyzed 61 Angelman syndrome (AS) patients by cytogenetic and molecular techniques. On the basis of molecular findings, the patients were classified into the following 4 groups: familial cases without deletion, familial cases with submicroscopic deletion, sporadic cases with deletion, and sporadic cases without deletion. Among 53 sporadic cases, 37 (70%) had molecular deletion, which commonly extended from D15S9 to D15S12, although not all deletions were identical. Of 8 familial cases, 3 sibs from one family had a molecular deletion involving only 2 loci, D15S10 and GABRB3, which define the critical region for AS phenotypes. The parental origin of deletion, both in sporadic and familial cases, was exclusively maternal and consistent with a genomic imprinting hypothesis. Among sporadic and familial cases without deletion, no uniparental disomy was found and most of them were shown to inherit chromosomes 15 from both parents (biparental inheritance). A discrepancy between cytogenetic and molecular deletion was observed in 14 (26%) of 53 patients in whom cytogenetic analysis could be performed. Ten (43%) of 23 patients with a normal karyotype showed a molecular deletion, and 4 (13%) of 30 patients with cytogenetic deletion, del(15) (q11q13), showed no molecular deletion. Most clinical manifestations, including neurological signs and facial characteristics, were not distinct in each group except for hypopigmentation of skin or hair. Familial cases with submicroscopic deletion were not associated with hypopigmentation. These findings suggested that a gene for hypopigmentation is located outside the critical region of AS and is not imprinted.
+7802001	1333	1351	neurological signs	Phenotype	HP:0000707	0.99079
+7802001	1423	1455	hypopigmentation of skin or hair	Phenotype	HP:0005599	0.95005
+7802001	1526	1542	hypopigmentation	Phenotype	HP:0001010	1.00
+7802001	1585	1601	hypopigmentation	Phenotype	HP:0001010	1.00
+
+7905534|t|Angelman syndrome (AS) results from a lack of maternal contribution from chromosome 15q11-13, arising from de novo deletion in most cases or rarely from uniparental disomy. These families are associated with a low recurrence risk. However, in a minority of families, more than one child is affected. No deletion has been found in these families, except one. The mode of inheritance in these families is autosomal dominant modified by imprinting. Sporadic cases, with no observable deletion, therefore pose a counselling dilemma as there could be a recurrence risk as high as 50%. We present a series of 93 AS patients, showing the relative contribution of these different genetic mechanisms. Eighty-one AS patients were sporadic cases while 12 cases came from six families. Sixty cases had deletions in 15q11-13 detected by a set of highly polymorphic (CA)n repeats markers and conventional RFLPs. Ten sporadic cases plus all 12 familial cases had no detectable deletion. In addition, two cases of de novo deletions occurred in a chromosome 15 carrying a pericentric inversion. In one of these the AS child had a cousin with Prader-Willi syndrome (PWS) arising from a de novo deletion in an inv(15) inherited from his father. One case arose from a maternal balanced t(9;15)(p24;q15) translocation. There were three cases of uniparental disomy. Five patients were monoallelic for all loci across the minimal AS critical region, but the presence of a deletion cannot be confirmed. In familial cases, all affected sibs inherited the same maternal chromosome 15 markers for the region 15q11-13. Two cases were observed with a de novo deletion starting close to the locus D15S11 (IR4-2R), providing evidence for the development of classical AS with smaller deletions. Cytogenetic analysis proved limited in its ability to detect deletions, detecting only 42 out of 60 cases. However, cytogenetic analysis is still essential to detect chromosomal abnormalities other than deletions such as inversions and balanced translocations since both have an increased risk for deletions. A staged diagnostic strategy based on the use of highly informative (CA)n repeat markers is proposed.
+
+8145850|t|The mutation brachypodism (bp) alters the length and number of bones in the limbs of mice but spares the axial skeleton. It illustrates the importance of specific genes in controlling the morphogenesis of individual skeletal elements in the tetrapod limb. We now report the isolation of three new members of the transforming growth factor-beta (TGF-beta) superfamily (growth/differentiation factors (GDF) 5,6 and 7) and show by mapping, expression patterns and sequencing that mutations in Gdf5 are responsible for skeletal alterations in bp mice. GDF5 and the closely related GDF6 and GDF7 define a new subgroup of factors related to known bone- and cartilage-inducing molecules, the bone morphogenetic proteins (BMPs). Studies of Bmp5 mutations in short ear mice have shown that at least one other BMP gene is also required for normal skeletal development. The highly specific skeletal alterations in bp and short ear mice suggest that different members of the BMP family control the formation of different morphological features in the mammalian skeleton.
+8145850	750	759	short ear	Phenotype	HP:0400005	1.00
+8145850	910	919	short ear	Phenotype	HP:0400005	1.00
+
+8352281|t|Nevoid basal cell carcinoma syndrome (NBCCS; basal cell nevus syndrome or Gorlin syndrome) is a cancer-predisposition syndrome characterized by multiple basal cell carcinomas (BCCs) and diverse developmental defects. The gene for NBCCS has been mapped to 9q23.1-q31 in North American and European families. In addition, loss of heterozygosity (LOH) for genetic markers in this region has been detected in sporadic BCCs, indicating that the NBCCS gene is probably a tumor-suppressor gene. In this study we have determined that the NBCCS gene is also linked to this region in Australasian pedigrees and that there is no significant evidence of heterogeneity. We have defined the localization of the gene by multipoint and haplotype analysis of 15 families, using four microsatellite markers. LOH at these loci was detected in 50% of sporadic BCCs, a rate that is significantly higher than that in other skin lesions used as controls.
+8352281	7	27	basal cell carcinoma	Phenotype	HP:0002671	1.00
+8352281	45	61	basal cell nevus	Phenotype	HP:0002671	1.00
+8352281	96	102	cancer	Phenotype	HP:0002664	1.00
+8352281	153	174	basal cell carcinomas	Phenotype	HP:0002671	1.00
+8352281	176	180	BCCs	Phenotype	HP:0002671	1.00
+8352281	414	418	BCCs	Phenotype	HP:0002671	1.00
+8352281	465	470	tumor	Phenotype	HP:0002664	1.00
+8352281	840	844	BCCs	Phenotype	HP:0002671	1.00
+
+8808282|t|Branchio-oto-renal (BOR) syndrome is an autosomal dominant disorder characterized by branchial abnormality, hearing loss, and renal anomalies. Recently, the disease gene has been localized to chromosome 8q. Here, we report genetic studies that further refine the disease gene region to a smaller interval and identify several YACs from the critical region. We studied two large, clinically well-characterized BOR families with a set of 13 polymorphic markers spanning the D8S165-D8S275 interval from the chromosome 8q region. Based on multipoint analysis, the highest likelihood for the location of the BOR gene is between markers D8S543 and D8S530, a distance of about 2 cM. YACs that map in the BOR critical region have been identified and characterized by fluorescence in situ hybridization and pulsed-field gel electrophoresis. A YAC contig, based on the STS content map, that covers a minimum of 4 Mb of human DNA in the critical region of BOR is assembled. This lays the groundwork for the construction of a transcriptional map of this region and the eventual identification of genes involved in BOR syndrome.
+8808282	85	106	branchial abnormality	Phenotype	HP:0009794	1.00
+8808282	108	120	hearing loss	Phenotype	HP:0000365	1.0
+8808282	126	141	renal anomalies	Phenotype	HP:0000077	1.00
+
+9236523|t|To evaluate patients with multiple endocrine neoplasia type 1 (MEN 1) for cutaneous manifestations.  Survey during a 3-year period.  The National Institutes of Health, a tertiary referral research hospital in Bethesda Md.  A consecutive sample of 32 individuals with previously diagnosed MEN1 who were not preselected for the presence of skin lesions were examined for cutaneous abnormalities. None of the patients or family members were diagnosed as having tuberous sclerosis.  Lesions were identified by clinical appearance, photographed, and confirmed histologically.  To determine the frequency of skin lesions in patients with MEN1.  Multiple facial angiofibromas were observed in 28 (88%) of the patients with MEN1, with 16 patients (50%) having 5 or more. Angiofibromas were clinically and histologically identical to those in individuals with tuberous sclerosis. Collagenomas were observed in 23 patients (72%). Also observed were cafe au lait macules in 12 patients (38%), lipomas in 11 patients (34%), confetti-like hypopigmented macules in 2 patients (6%), and multiple gingival papules in 2 patients (6%).  Multiple angiofibromas, collagenomas, lipomas, confetti-like hypopigmented macules and multiple gingival papules are cutaneous manifestations of MEN1 and should be looked for in both family members of patients with MEN1 and individuals with hyperparathyroidism of other MEN1-associated tumors. Multiple angiofibromas can no longer be considered pathognomonic for tuberous sclerosis. The observation of angiofibromas in individuals without tuberous sclerosis necessitates further biochemical testing for MEN1.
+9236523	35	54	endocrine neoplasia	Phenotype	HP:0100568	1.00
+9236523	648	668	facial angiofibromas	Phenotype	HP:0009720	1.00
+9236523	763	776	Angiofibromas	Phenotype	HP:0010615	1.00
+9236523	939	959	cafe au lait macules	Phenotype	HP:0000957	1.0
+9236523	982	989	lipomas	Phenotype	HP:0001012	1.00
+9236523	1012	1047	confetti-like hypopigmented macules	Phenotype	HP:0007449	1.00
+9236523	1090	1097	papules	Phenotype	HP:0200034	1.00
+9236523	1128	1141	angiofibromas	Phenotype	HP:0010615	1.00
+9236523	1157	1164	lipomas	Phenotype	HP:0012032	1.00
+9236523	1166	1201	confetti-like hypopigmented macules	Phenotype	HP:0007449	1.00
+9236523	1224	1231	papules	Phenotype	HP:0200034	1.00
+9236523	1360	1379	hyperparathyroidism	Phenotype	HP:0000843	1.00
+9236523	1405	1411	tumors	Phenotype	HP:0002664	1.00
+9236523	1422	1435	angiofibromas	Phenotype	HP:0010615	1.00
+9236523	1521	1534	angiofibromas	Phenotype	HP:0010615	1.00
+
